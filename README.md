@@ -6,7 +6,7 @@ Validates a warehouse restock manifest with a Pydantic v2 model. See ASSIGNMENT.
 
 ```bash
 git clone <this-repo-url>
-cd project
+cd Warehouse-Restock-Manifest-Validator
 python -m venv .venv
 source .venv/bin/activate OR .\.venv\Scripts\activate.bat
 pip install -e ".[test]"

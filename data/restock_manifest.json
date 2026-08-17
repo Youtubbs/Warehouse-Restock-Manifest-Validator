@@ -1,0 +1,85 @@
+[
+  {
+    "sku": "SKU-1001",
+    "warehouse": "west-1",
+    "quantity": 25,
+    "unit_cost": 12.5,
+    "category": "electronics"
+  },
+  {
+    "sku": "SKU-1002",
+    "warehouse": "west-1",
+    "quantity": 8,
+    "unit_cost": 249.99,
+    "category": "electronics"
+  },
+  {
+    "sku": "SKU-1003",
+    "warehouse": "east-2",
+    "quantity": 120,
+    "unit_cost": 3.75,
+    "category": "perishable"
+  },
+  {
+    "sku": "SKU-1004",
+    "warehouse": "east-2",
+    "quantity": 60,
+    "unit_cost": 1.2,
+    "category": "perishable"
+  },
+  {
+    "sku": "SKU-1005",
+    "warehouse": "west-1",
+    "quantity": 40,
+    "unit_cost": 18.0,
+    "category": "apparel"
+  },
+  {
+    "sku": "SKU-1006",
+    "warehouse": "south-3",
+    "quantity": 15,
+    "unit_cost": 45.0,
+    "category": "apparel"
+  },
+  {
+    "sku": "SKU-1007",
+    "warehouse": "south-3",
+    "quantity": 200,
+    "unit_cost": 0.85,
+    "category": "hardware"
+  },
+  {
+    "sku": "SKU-1008",
+    "warehouse": "north-4",
+    "quantity": 30,
+    "unit_cost": 22.5,
+    "category": "hardware"
+  },
+  {
+    "sku": "SKU-1011",
+    "warehouse": "west-1",
+    "quantity": 10,
+    "unit_cost": 15.0,
+    "category": "furniture"
+  },
+  {
+    "sku": "SKU-1013",
+    "warehouse": "south-3",
+    "quantity": -5,
+    "unit_cost": 9.99,
+    "category": "apparel"
+  },
+  {
+    "sku": "SKU-1014",
+    "warehouse": "north-4",
+    "quantity": 20,
+    "unit_cost": 0,
+    "category": "electronics"
+  },
+  {
+    "warehouse": "west-1",
+    "quantity": 8,
+    "unit_cost": 4.0,
+    "category": "hardware"
+  }
+]
